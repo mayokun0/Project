@@ -124,3 +124,36 @@ button{
     margin: 15px;
 
 }
+
+.section3{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    align-items: flex-end;
+    width: 700px;
+    
+
+}
+
+.words{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    margin-bottom: 15px;
+    
+}
+
+.person{
+    font-size: 18px;
+    align-self: 
+
+}
