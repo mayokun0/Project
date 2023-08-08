@@ -14,7 +14,7 @@ body{
     flex-shrink: 1;
 }
 
-img{
+.content img{
     width: auto;
     height: 200px;
     margin-right: 150px;
