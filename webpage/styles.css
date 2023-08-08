@@ -48,10 +48,6 @@ a{
 
 }
 
-.links{
-
-}
-
 ul{
     list-style-type: none;
     display: flex;
@@ -85,6 +81,7 @@ button{
     width: 80px;
     height: 25px;
     color: white;
+    border-radius: 6px;
    
 
 }
@@ -154,6 +151,42 @@ button{
 
 .person{
     font-size: 18px;
-    align-self: 
+    
+}
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 300px;
+}
 
+.signup{
+    background-color:#3882f6 ;
+    width: 750px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: space-around;
+
+}
+.text4{
+    color: white;
+}
+
+.header4{
+    font-size: 24px ;
+}
+
+.footer{
+    background-color: #1f2937;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.Copyright{
+    color: white;
+    margin-top: 15px;
 }
